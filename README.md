@@ -1,4 +1,4 @@
-Link for the application: https://app.netlify.com/sites/alan-ai-news-application/overview
+Link for the application: https://alan-ai-news-application.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
